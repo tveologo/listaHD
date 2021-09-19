@@ -1,8 +1,13 @@
 # listaHD
 canales HD
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/sl8i8hswe5eg833/logo.png" group-title="Lista GRUPO TVFLIXHD",-------Lista GRUPO TVFLIXHD-------
-https://dl.dropbox.com/s/sl8i8hswe5eg833/logo.png
+
+
+#EXTINF:-1 group-title="Locales Argentina",America TV HD
+http://54.39.16.47:25461/live/468451672/468451672/309.m3u8
+
+
+
 
 #EXTINF:-1 group-title="Infantiles",Cartoon Network HD
 http://45.225.204.7:8000/play/a05w

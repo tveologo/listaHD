@@ -10,7 +10,7 @@ http://54.39.16.47:25461/live/468451672/468451672/309.m3u8
 https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/92eeb867-b7fc-486f-9979-9fd591b86e29:SCL/variant/085a2414a253631c90e7ac89ccc9f934/bandwidth/1031000.m3u8
 
 #EXTINF:-1 group-title="Locales Argentina",TNT Sports en vivo
-https://live.telelatinohd.com/hls/ts18e8mxa3xmnll/9_.m3u8?token=vFUZ_WdtqOauiNvG9oIQYA&expires=1632070303&ip=131.221.65.249
+https://live.telelatinohd.com/hls/ts18e8mxa3xmnll/9_.m3u8
 
 #EXTINF:-1 group-title="Locales Argentina",Canal 9 de Salta
 http://panel.dattalive.com:1935/8250/8250/chunklist_w836342637.m3u8

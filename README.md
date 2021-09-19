@@ -9,6 +9,9 @@ http://54.39.16.47:25461/live/468451672/468451672/309.m3u8
 #EXTINF:-1 group-title="Locales Argentina",America TV HD 2
 https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/92eeb867-b7fc-486f-9979-9fd591b86e29:SCL/variant/085a2414a253631c90e7ac89ccc9f934/bandwidth/1031000.m3u8
 
+#EXTINF:-1 group-title="Locales Argentina",Canal 26
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1021426239_b2628000_sleng.m3u8
+
 #EXTINF:-1 group-title="Locales Argentina",Net TV HD
 http://54.39.16.47:25461/live/887978018/887978018/22740.m3u8
 

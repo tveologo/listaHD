@@ -27,6 +27,15 @@ https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream1/playlist.m3u8
 #EXTINF:-1 group-title="Locales Argentina",America Sports HD
 http://54.39.16.47:25461/live/887978018/887978018/899.m3u8
 
+#EXTINF:-1 group-title="Locales Argentina",America Tucuman
+http://45.6.4.154/americatuc/vivo.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Locales Argentina",Argentinisima Satelital
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_sleng.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Locales Argentina",Canal rural
+https://cda2.alsolnet.com/elrural/live/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 group-title="Infantiles",Cartoon Network HD
 http://45.225.204.7:8000/play/a05w
 #EXTINF:-1 group-title="Infantiles",Discovery Kids

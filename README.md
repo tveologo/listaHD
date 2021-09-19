@@ -6,8 +6,11 @@ canales HD
 #EXTINF:-1 group-title="Locales Argentina",America TV HD
 http://54.39.16.47:25461/live/468451672/468451672/309.m3u8
 
+#EXTINF:-1 group-title="Locales Argentina",America Sports HD
+http://54.39.16.47:25461/live/887978018/887978018/899.m3u8
+
 #EXTINF:-1 group-title="Locales Argentina",Trece Tv HD
-http://54.39.16.47:25461/live/468451672/468451672/20433.m3u8
+http://54.39.16.47:25461/hls/468451672/468451672/20433/0355d69d325d6e086bd748b0c30a3859/20433_5.ts
 
 #EXTINF:-1 group-title="Infantiles",Cartoon Network HD
 http://45.225.204.7:8000/play/a05w

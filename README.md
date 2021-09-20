@@ -3,11 +3,9 @@ canales HD
 #EXTM3U
 
 
-#EXTINF:-1 group-title="Locales Argentina",Discovery Home and Health
-https://dywzcrbsgzhjgmiv.wzcdn594.net:8443/hls/adtxiz8zv.m3u8?s=0EsGy5fcIiO5nb2HM2Uo_Q&e=1632087311
 
 #EXTINF:-1 group-title="Locales Argentina",America TV HD 
-https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/92eeb867-b7fc-486f-9979-9fd591b86e29:SCL/variant/085a2414a253631c90e7ac89ccc9f934/bandwidth/1031000.m3u8
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 #EXTINF:-1 group-title="Locales Argentina",TNT Sports en vivo
 https://live.telelatinohd.com/hls/ts18e8mxa3xmnll/9_.m3u8

@@ -174,7 +174,6 @@ http://45.225.204.7:8000/play/a01i
 #EXTINF:-1 group-title="Entretenimiento",MTV
 http://45.225.204.7:8000/play/a02g
 
-
 #EXTINF:-1 group-title="Entretenimiento",TRUTV HD
 http://45.225.204.7:8000/play/a06c
 #EXTINF:-1 group-title="Entretenimiento",Zona Latina

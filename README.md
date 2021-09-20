@@ -7,8 +7,8 @@ canales HD
 #EXTINF:-1 group-title="Locales Argentina",America TV HD 
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
-#EXTINF:-1 group-title="Locales Argentina",TNT Sports en vivo
-https://live.telelatinohd.com/hls/ts18e8mxa3xmnll/9_.m3u8
+#EXTINF:-1 group-title="Locales Argentina",Canal 9 HD
+https://video-weaver.rio01.hls.ttvnw.net/v1/playlist/CogFn3Y9KxmWwsdP5ZsiShbMgkadKuGUAALcv_2bPSdoV_Uk2v8PpCSImRE-w6s9ksd0CYOxZ3JAn2ECk0IbiQHuolg5wtNFc8TiZgig5J4NpnHuAoCono0uh-eGs0i-WbHBEfl-gKSr1STmDMVhKPbmzJ3rPgFl5BKIZbTtn1asqdeXVrGFmcMnTorBnp8DFnEnTowBK_9TIYu4tZvNDVozlvmj-ayI0HSiMY5X5opyRS93J5OyOdR8aLZbvAzr6l-cEmdhapgpbgJ9WJcMtqcO9EzIPOOULKVJTDQHTHhbTKcB5w9fvEWuuowV0ttpkKvOX5HPR9yf0An_2YH6z_j3wqFjlhohBTlfWEcD8G0OFn8aNqvdLBKdtW7Lqx9g2BjfoqFwsSqB1E01dTATKwB1BHpihXvQyLDIF-2tr_RfdMLPRgxuinA8mv5vbdoyYLSYbYENlMlKfLYbDZgmr53MMHmG4kFmE5QH3zuJmgggRvsJWkQyun5NtjRcMwEmfoRo77FqB1VZsrKOzUzVSrvuI-nfLeNTg5b0wmob61Nga9dQzO-PoCVB0Mgpg_WNynjiSHVC8Ka4RcmyC6F9YZ4BwJVXCYQOI9o_LW2gl1ziMtUZqZGxxHWni4t8bdIb6NK7gXRn7wJ0I-Zgv72Ma-oG7p3ax8MbPPJGREtVoWGxo-Kn84bsGdiBPTY_U8c-c2ZeFz0Pe_yTdAoKwSu14mE-h91dfYX44uy0e9QIjl1coGztQfKGsm0bTIRZOgvD-1yjdgv-rOgH4DOowvZhglaxDl-HKSVATXQqvXpB0kOTN_0at3roAWS-y8oNBcHQ_oV2CeaWecwn9UfcrdPd0c08p2es4q_dnDiIEhBikt2gZV1Sxc_dnifO66BAGgyzIWwOUug1ahva5MQ.m3u8
 
 #EXTINF:-1 group-title="Locales Argentina",Canal 9 de Salta
 http://panel.dattalive.com:1935/8250/8250/chunklist_w836342637.m3u8

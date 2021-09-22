@@ -5,15 +5,21 @@ canales HD
 #EXTINF:-1 group-title="Locales Argentina",Tv publica
 https://cntlnk-main-edge-access.secure.footprint.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
 
-#EXTINF:-1 group-title="Locales Argentina",Discovery Home and Health
-https://dywzcrbsgzhjgmiv.wzcdn594.net:8443/hls/adtxiz8zv.m3u8?s=0EsGy5fcIiO5nb2HM2Uo_Q&e=1632087311
+#EXTINF:-1 group-title="Locales Argentina",Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
+#EXTINF:-1 group-title="Locales Argentina",Paka paka
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 group-title="Locales Argentina",Garage tv
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Locales Argentina",Canal 9 HD
 https://video-weaver.rio01.hls.ttvnw.net/v1/playlist/CogFn3Y9KxmWwsdP5ZsiShbMgkadKuGUAALcv_2bPSdoV_Uk2v8PpCSImRE-w6s9ksd0CYOxZ3JAn2ECk0IbiQHuolg5wtNFc8TiZgig5J4NpnHuAoCono0uh-eGs0i-WbHBEfl-gKSr1STmDMVhKPbmzJ3rPgFl5BKIZbTtn1asqdeXVrGFmcMnTorBnp8DFnEnTowBK_9TIYu4tZvNDVozlvmj-ayI0HSiMY5X5opyRS93J5OyOdR8aLZbvAzr6l-cEmdhapgpbgJ9WJcMtqcO9EzIPOOULKVJTDQHTHhbTKcB5w9fvEWuuowV0ttpkKvOX5HPR9yf0An_2YH6z_j3wqFjlhohBTlfWEcD8G0OFn8aNqvdLBKdtW7Lqx9g2BjfoqFwsSqB1E01dTATKwB1BHpihXvQyLDIF-2tr_RfdMLPRgxuinA8mv5vbdoyYLSYbYENlMlKfLYbDZgmr53MMHmG4kFmE5QH3zuJmgggRvsJWkQyun5NtjRcMwEmfoRo77FqB1VZsrKOzUzVSrvuI-nfLeNTg5b0wmob61Nga9dQzO-PoCVB0Mgpg_WNynjiSHVC8Ka4RcmyC6F9YZ4BwJVXCYQOI9o_LW2gl1ziMtUZqZGxxHWni4t8bdIb6NK7gXRn7wJ0I-Zgv72Ma-oG7p3ax8MbPPJGREtVoWGxo-Kn84bsGdiBPTY_U8c-c2ZeFz0Pe_yTdAoKwSu14mE-h91dfYX44uy0e9QIjl1coGztQfKGsm0bTIRZOgvD-1yjdgv-rOgH4DOowvZhglaxDl-HKSVATXQqvXpB0kOTN_0at3roAWS-y8oNBcHQ_oV2CeaWecwn9UfcrdPd0c08p2es4q_dnDiIEhBikt2gZV1Sxc_dnifO66BAGgyzIWwOUug1ahva5MQ.m3u8
 
 #EXTINF:-1 group-title="Locales Argentina",America TV HD 
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
 
 #EXTINF:-1 group-title="Locales Argentina",Canal 9 de Salta
 http://panel.dattalive.com:1935/8250/8250/chunklist_w836342637.m3u8
@@ -38,13 +44,6 @@ http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_sleng.m
 
 #EXTINF:-1 group-title="Locales Argentina",Canal rural
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8?PlaylistM3UCL
-
-
-#EXTINF:-1 group-title="de Peliculas",Star Channel
-https://edge1.stg.cvattv.com.ar/live/live2/FXHD/SA_Live_fta/index.m3u8
-
-#EXTINF:-1 group-title="de Series",El chapulin colorado
-http://watch.alienstreams.tv:8080/3934136260/5483122121/16548
 
 #EXTINF:-1 group-title="Infantiles",Cartoon Network HD
 http://45.225.204.7:8000/play/a05w
@@ -172,11 +171,6 @@ http://45.225.204.7:8000/play/a06d
 http://45.225.204.7:8000/play/a01i
 #EXTINF:-1 group-title="Entretenimiento",MTV
 http://45.225.204.7:8000/play/a02g
-
-#EXTINF:-1 group-title="Locales Argentina",Discovery Home and Health
-https://dywzcrbsgzhjgmiv.wzcdn594.net:8443/hls/adtxiz8zv.m3u8?s=0EsGy5fcIiO5nb2HM2Uo_Q&e=1632087311
-
-a
 
 #EXTINF:-1 group-title="Entretenimiento",TRUTV HD
 http://45.225.204.7:8000/play/a06c

@@ -177,11 +177,6 @@ http://45.225.204.7:8000/play/a06c
 #EXTINF:-1 group-title="Entretenimiento",Zona Latina
 http://45.225.204.7:8000/play/a01h
 
-
-
-
-#EXTM3U
-
 #EXTINF:-1,Disney Channel HD
 http://iptvcanales.gq/canales/tv/disney_hls/playlist.m3u8
 

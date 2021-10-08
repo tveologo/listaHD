@@ -176,3 +176,191 @@ http://45.225.204.7:8000/play/a02g
 http://45.225.204.7:8000/play/a06c
 #EXTINF:-1 group-title="Entretenimiento",Zona Latina
 http://45.225.204.7:8000/play/a01h
+
+
+
+
+#EXTM3U
+
+#EXTINF:-1,Disney Channel HD
+http://iptvcanales.gq/canales/tv/disney_hls/playlist.m3u8
+
+#EXTINF:-1,Golden HD
+http://iptvcanales.gq/canales/tvfree/202/playlist.m3u8
+
+#EXTINF:-1,Cinemax HD
+http://iptvcanales.gq/canales/tvfree/215/playlist.m3u8
+
+#EXTINF:-1,AMC HD
+http://iptvcanales.gq/canales/tv/amc_hls/playlist.m3u8
+
+#EXTINF:-1,Syfy HD
+http://iptvcanales.gq/canales/tv/syfy_hls/playlist.m3u8
+
+#EXTINF:-1,FX HD
+http://iptvcanales.gq/canales/tv/fx_hls/playlist.m3u8
+
+#EXTINF:-1,FXM HD
+http://iptvcanales.gq/canales/tv/fxm_hls/playlist.m3u8
+
+#EXTINF:-1,Cinecanal HD
+http://iptvcanales.gq/canales/tv/cinecanal_hls/playlist.m3u8
+
+#EXTINF:-1,TNT HD
+http://iptvcanales.gq/canales/tv/tnt_hls/playlist.m3u8
+
+#EXTINF:-1,TNT Series HD
+http://iptvcanales.gq/canales/tv/tntseries_hls/playlist.m3u8
+
+#EXTINF:-1,AXN HD
+http://iptvcanales.gq/canales/tv/axn_hls/playlist.m3u8
+
+#EXTINF:-1,Space HD
+http://iptvcanales.gq/canales/tv/space_hls/playlist.m3u8
+
+#EXTINF:-1,TBS HD
+http://iptvcanales.gq/canales/tv/tbs_hls/playlist.m3u8
+
+#EXTINF:-1,Studio Universal HD
+http://iptvcanales.gq/canales/tvfree/218/playlist.m3u8
+
+#EXTINF:-1,Universal Channel HD
+http://iptvcanales.gq/canales/tv/universal_hls/playlist.m3u8
+
+#EXTINF:-1,Warner HD
+http://iptvcanales.gq/canales/tv/warner_hls/playlist.m3u8
+
+#EXTINF:-1,TCM HD
+http://iptvcanales.gq/canales/tv/tcm_hls/playlist.m3u8
+
+#EXTINF:-1,Animal Planet HD
+http://iptvcanales.gq/canales/live/154/playlist.m3u8
+
+#EXTINF:-1,History HD
+http://iptvcanales.gq/canales/tv/history_hls/playlist.m3u8
+
+#EXTINF:-1,H2 HD
+http://iptvcanales.gq/canales/tv/h2_hls/playlist.m3u8
+
+#EXTINF:-1,Discovery Channel HD
+http://iptvcanales.gq/canales/tv/discovery_hls/playlist.m3u8
+
+#EXTINF:-1,Discovery H&H HD
+http://iptvcanales.gq/canales/tvfree/229/playlist.m3u8
+
+#EXTINF:-1,NatGeo Wild HD
+http://iptvcanales.gq/canales/tvfree/227/playlist.m3u8
+
+#EXTINF:-1,Fox HD
+http://iptvcanales.gq/canales/live/142/playlist.m3u8
+
+#EXTINF:-1,Fox Hits HD
+http://iptvcanales.gq/canales/rojo/97900/playlist.m3u8
+
+#EXTINF:-1,Fox Action HD
+http://iptvcanales.gq/canales/rojo/97901/playlist.m3u8
+
+#EXTINF:-1,Fox Action HD Op2
+http://iptvcanales.gq/canales/tv/fox_action_hls/playlist.m3u8
+
+#EXTINF:-1,Fox Series HD
+http://iptvcanales.gq/canales/rojo/97899/playlist.m3u8
+
+#EXTINF:-1,Fox Series HD Op2
+http://iptvcanales.gq/canales/tv/fox_series_hls/playlist.m3u8
+
+#EXTINF:-1,Fox Family HD
+http://iptvcanales.gq/canales/tv/fox_family_hls/playlist.m3u8
+
+#EXTINF:-1,Fox Comedy HD
+http://iptvcanales.gq/canales/tv/fox_comedy_hls/playlist.m3u8
+
+#EXTINF:-1,Fox Classics HD
+http://iptvcanales.gq/canales/tv/fox_classics_hls/playlist.m3u8
+
+#EXTINF:-1,Fox Movies HD
+http://iptvcanales.gq/canales/tv/fox_movies_hls/playlist.m3u8
+
+#EXTINF:-1,Fox Life HD
+http://iptvcanales.gq/canales/tv/foxlife_hls/playlist.m3u8
+
+#EXTINF:-1,HBO HD
+http://iptvcanales.gq/canales/stream/0071/playlist.m3u8
+
+#EXTINF:-1,HBO 2 HD
+http://iptvcanales.gq/canales/stream/0072/playlist.m3u8
+
+#EXTINF:-1,HBO + HD
+http://iptvcanales.gq/canales/stream/0075/playlist.m3u8
+
+#EXTINF:-1,HBO Family HD
+http://iptvcanales.gq/canales/stream/0073/playlist.m3u8
+
+#EXTINF:-1,HBO Signature HD
+http://iptvcanales.gq/canales/stream/0077/playlist.m3u8
+
+#EXTINF:-1,HBO Xtreme HD
+http://iptvcanales.gq/canales/stream/0078/playlist.m3u8
+
+#EXTINF:-1,HBO Mundi HD
+http://iptvcanales.gq/canales/stream/0074/playlist.m3u8
+
+#EXTINF:-1,TNT Sports HD
+http://iptvcanales.gq/canales/tv/tntsports_hls/playlist.m3u8
+
+#EXTINF:-1,Fox Sports Premium SD
+http://iptvcanales.gq/canales/cable/nqr8ua5ep6t/playlist.m3u8
+
+#EXTINF:-1,Fox Sports Premium SD Op2
+http://iptvcanales.gq/canales/tvfree/10/playlist.m3u8
+
+#EXTINF:-1,Tyc Sports
+http://iptvcanales.gq/canales/cable/66x0o71mv37k/playlist.m3u8
+
+#EXTINF:-1,Tyc Sports
+http://iptvcanales.gq/canales/tvfree/11/playlist.m3u8
+
+#EXTINF:-1,Fox Sports AR SD
+http://iptvcanales.gq/canales/cable/kx8ric6rf/playlist.m3u8
+
+#EXTINF:-1,Fox Sports AR SD Op2
+http://iptvcanales.gq/canales/tvfree/12/playlist.m3u8
+
+#EXTINF:-1,Fox Sports 2 AR SD
+http://iptvcanales.gq/canales/cable/70ublqdqhun705w/playlist.m3u8
+
+#EXTINF:-1,Fox Sports 2 AR SD Op2
+http://iptvcanales.gq/canales/tvfree/13/playlist.m3u8
+
+#EXTINF:-1,Fox Sports 3 AR SD
+http://iptvcanales.gq/canales/cable/30h9tv6w0gwaq/playlist.m3u8
+
+#EXTINF:-1,Fox Sports 3 AR SD Op2
+http://iptvcanales.gq/canales/tvfree/17/playlist.m3u8
+
+#EXTINF:-1,ESPN AR HD
+http://iptvcanales.gq/canales/stream/0446/playlist.m3u8
+
+#EXTINF:-1,ESPN 2 AR HD
+http://iptvcanales.gq/canales/stream/0447/playlist.m3u8
+
+#EXTINF:-1,ESPN 3 AR HD
+http://iptvcanales.gq/canales/stream/0448/playlist.m3u8
+
+#EXTINF:-1,DirecTV Sports AR
+http://iptvcanales.gq/canales/tvfree/20/playlist.m3u8
+
+#EXTINF:-1,DirecTV Sports 2 AR
+http://iptvcanales.gq/canales/tvfree/21/playlist.m3u8
+
+#EXTINF:-1,DirecTV Sports+ AR
+http://iptvcanales.gq/canales/tvfree/22/playlist.m3u8
+
+#EXTINF:-1,Chespirito
+http://iptvcanales.gq/canales/envivo/chespirito-tv/playlist.m3u8
+
+#EXTINF:-1,Chavo del 8
+http://iptvcanales.gq/canales/tvfree/150/playlist.m3u8
+
+#EXTINF:-1,Dragon Ball
+http://iptvcanales.gq/canales/tvfree/191/playlist.m3u8

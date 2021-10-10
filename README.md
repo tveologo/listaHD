@@ -41,3 +41,6 @@ http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_sleng.m
 #EXTINF:-1 group-title="Locales Argentina",Canal rural  | AR
 https://cda2.alsolnet.com/elrural/live/playlist.m3u8?PlaylistM3UCL
 
+#EXTINF:-1 group-title="Locales Argentina",Canal 13 Chaco  | AR
+http://www.coninfo.net:1935/9linklive/live/playlist.m3u8
+

@@ -44,3 +44,30 @@ https://cda2.alsolnet.com/elrural/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 group-title="Locales Argentina",Canal 13 Chaco  | AR
 http://www.coninfo.net:1935/9linklive/live/playlist.m3u8
 
+#EXTINF:-1 group-title="Cines y Series",STAR CHANNEL
+http://regioplay.xyz/php/SR_REGIO_900112_/th.php?channel=vf0rrk11x&f=.m3u8
+
+#EXTINF:-1 group-title="Cines y Series",TNT
+http://regioplay.xyz/php/SR_REGIO_900112_/th.php?channel=ntn_t144&f=.m3u8
+
+#EXTINF:-1 group-title="Cultura",HISTORY CHANNEL
+http://regioplay.xyz/php/SR_REGIO_900112_/th.php?channel=vc_bt33&f=.m3u8
+
+#EXTINF:-1 group-title="Cines y Series",CARTOON NETWORK
+http://regioplay.xyz/php/SR_REGIO_900112_/th.php?channel=8kkctoon&f=.m3u8
+
+#EXTINF:-1 group-title="Cines y Series",DISNEY CHANNEL
+http://regioplay.xyz/php/SR_REGIO_900112_/th.php?channel=dk_0155&f=.m3u8
+
+#EXTINF:-1 group-title="Cines y Series",NICK
+http://regioplay.xyz/php/SR_REGIO_900112_/th.php?channel=teen920&f=.m3u8
+
+#EXTINF:-1 group-title="Cines y Series",CINEMAX
+http://regioplay.xyz/php/SR_REGIO_900112_/th.php?channel=cc_m99x&f=.m3u8
+
+#EXTINF:-1 group-title="Cines y Series",SPACE
+http://regioplay.xyz/php/SR_REGIO_900112_/th.php?channel=kx_rrt22&f=.m3u8
+
+#EXTINF:-1 group-title="Cultura",DISCOVERY CHANNEL
+http://regioplay.xyz/php/SR_REGIO_900112_/th.php?channel=dt_xx99&f=.m3u8
+
